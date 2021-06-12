@@ -1,4 +1,11 @@
-# Hellow 
+# Hello 👋 I am Niranjan
 
-![Niranjan GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanstudy06&theme=algolia&show_icons=true)
+I am a scientist my heart who is passionate about developing real-time applications with integrated AI & autonomous robotics to serve a greater purpose.
+
+- 🦸‍♂️ All time IRON MAN fan boy. 
+- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
