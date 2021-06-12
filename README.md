@@ -5,7 +5,7 @@ I am a scientist my heart who is passionate about developing real-time applicati
 - 🦸‍♂️ All time IRON MAN fan boy. 
 - 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanstudy06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
