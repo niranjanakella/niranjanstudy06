@@ -1,4 +1,6 @@
 (function() {
+  console.log("Widget script loaded");
+
   // Create and inject CSS
   const style = document.createElement('style');
   style.textContent = `
@@ -272,4 +274,6 @@
       addMessage('ai', 'Sorry, there was an error processing your request.');
     }
   }
+
+  console.log("Widget initialization complete");
 })();
